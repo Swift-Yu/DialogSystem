@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Dialogue System/Examples/Bark Example/Bark Example.unity
+  isLoaded: 1
+  isActive: 1
